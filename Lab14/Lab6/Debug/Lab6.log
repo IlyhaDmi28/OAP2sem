@@ -1,0 +1,26 @@
+﻿Сборка начата 18.05.2022 18:05:54.
+Уровень детализации журнала: Normal.     1>Проект "D:\лабы ОАП\Lab14\Lab6\Lab6.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab6.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab15.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\лабы ОАП\Lab14\Debug\Lab15.exe" /INCREMENTAL /ILK:"Debug\Lab15.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\лабы ОАП\Lab14\Debug\Lab15.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\лабы ОАП\Lab14\Debug\Lab15.lib" /MACHINE:X86 Debug\Lab15.obj
+         Debug\WorkHash.obj
+         Lab6.vcxproj -> D:\лабы ОАП\Lab14\Debug\Lab15.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab15.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab15.tlog\Lab15.lastbuildstate".
+     1>Сборка проекта "D:\лабы ОАП\Lab14\Lab6\Lab6.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\лабы ОАП\Lab14\Lab6\Lab6.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект PrepareForBuild) -> 
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab6.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:00.69
