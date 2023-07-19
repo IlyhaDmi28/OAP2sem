@@ -1,0 +1,3 @@
+﻿  task5reserve.cpp
+D:\Labs\Старые\лабы ОАП\Lab5\task5reserve\task5reserve.cpp(23,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  task5reserve.vcxproj -> D:\Labs\Старые\лабы ОАП\Lab5\Debug\task5reserve.exe
