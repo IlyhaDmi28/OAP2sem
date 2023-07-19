@@ -1,0 +1,6 @@
+﻿  Lab15.cpp
+D:\лабы ОАП\Lab15\Lab6\Lab15.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  WorkHash.cpp
+D:\лабы ОАП\Lab15\Lab6\WorkHash.cpp(8,19): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Lab6.vcxproj -> D:\лабы ОАП\Lab15\x64\Debug\Lab15.exe
